@@ -5,3 +5,4 @@
 ---
 
   1) [재활용 분류 프로젝트](https://github.com/aifornature/study_vision/tree/main/recycle_project)
+  2) [사물인지 CCTV 프로젝트](https://github.com/aifornature/study_vision/tree/main/cctv_project)
