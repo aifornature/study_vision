@@ -4,4 +4,4 @@
 
 ---
 
-  1) 재활용 분류 프로젝트 : [recycle_project](https://github.com/aifornature/study_vision/tree/main/recycle_project)
+  1) [재활용 분류 프로젝트](https://github.com/aifornature/study_vision/tree/main/recycle_project)
