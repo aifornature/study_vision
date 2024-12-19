@@ -6,3 +6,4 @@
 
   1) [재활용 분류 프로젝트](https://github.com/aifornature/study_vision/tree/main/recycle_project)
   2) [사물인지 CCTV 프로젝트](https://github.com/aifornature/study_vision/tree/main/cctv_project)
+  3) [횡단보도 보행자 보호 시스템 프로젝트](https://github.com/aifornature/study_vision/tree/main/crosswalk_project)
