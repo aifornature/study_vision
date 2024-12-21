@@ -14,3 +14,12 @@
     - 보행자를 감지했을 때 화면으로 "보행자가 있으니 우회전을 금지한다"는 내용 표시
 
 - 모델 : YOLOv5s, YOLOv7-tiny
+
+### 결과
+- yolov5s
+
+    <img width="200" alt="yolov5s_voc" src="https://github.com/user-attachments/assets/dc45050c-434d-4b5c-8b55-3f65d31d86ce" />
+
+- yolov7-tiny
+
+    <img width="200" alt="yolov7-tiny_voc" src="https://github.com/user-attachments/assets/8bba13e5-0044-40d0-99a9-54973edf8787" />
