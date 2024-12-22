@@ -51,6 +51,6 @@
 
   <img width="189" alt="스크린샷 2024-12-22 오후 9 31 27" src="https://github.com/user-attachments/assets/e300021e-365e-4c4e-a87a-c113300aff4c" />
   
-- 전이학습 : 340m 42.3s / Accuracy: 95.67%
+- 전이학습 : 40m 42.3s / Accuracy: 95.67%
 
   <img width="201" alt="스크린샷 2024-12-22 오후 9 31 35" src="https://github.com/user-attachments/assets/9be4e1d0-7a9a-4b68-8138-c4480f125501" />
