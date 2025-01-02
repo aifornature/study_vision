@@ -16,11 +16,11 @@
 
 ### 파일 구조
 - VOCdevkit : Paxcal VOC 데이터세트 폴더
-- VOCData :  훈련에 사용할 데이터세트 폴더
+- VOCData : 훈련에 사용할 데이터세트 폴더
 - convert2Yolo : label 파일을 YOLOv5 훈련에 사용할 수 있도록 xml을 txt 로 변환할 수 있도록 기능을 포함하는 폴더
-- vocnames.txt : 클래스 리스트 파일
+- vocnames.txt : 클래스 리스트 파일
 - manifest.txt : 이미지 파일 경로 파일
-- yolov5(yolov7) : yolov5(yolov7) 실행시 필요한 폴더
+- yolov5(yolov7) : yolov5(yolov7) 실행시 필요한 폴더
     - runs : 훈련 및 추론에 대한 결과가 저장된 폴더
         - train : 훈련 시 생성되는 가중치 및 결과가 저장되는 폴더
         - detect : 추론 시 생성되는 결과 이미지/영상이 저장되는 폴더
